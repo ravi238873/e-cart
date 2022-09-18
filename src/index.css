@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+/* .card-img-top {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+} */

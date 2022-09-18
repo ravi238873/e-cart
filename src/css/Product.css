@@ -1,0 +1,29 @@
+.card-grid {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: orange;
+}
+
+.card {
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+  margin: 40px 20px;
+  overflow: hidden;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  width: 100%;
+}
